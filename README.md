@@ -1,2 +1,3 @@
-# DeepLearning_from_scratch2
-codes for study
+### 밑바닥부터 시작하는 딥러닝2 
+
+* 공부 기록을 남기기 위해 reposit을 만들어 두었음.
